@@ -1,5 +1,5 @@
 # Olá! Eu me chamo Tiago de Castro  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-![fsaa](https://img.shields.io/github/watchers/Casmei/casmei.svg)  ![](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=casmei&label=Profile%20views&color=28a464&style=flat" alt="suburbanno" /> </p>
 
 
 ## Sobre :man_technologist:
