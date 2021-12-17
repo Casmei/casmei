@@ -8,7 +8,7 @@ Tenho 18 anos de idade, moro em Almenara - Minas Gerais e no momentos estou curs
 
 ## Entre em contato comigo :speech_balloon:
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tiago.cali/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-pinheiro-gusm%C3%A3o-3814911b9/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-de-castro-lima-3814911b9/)
 [![Linkedin](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5533987056883&text=Ol%C3%A1%2C%20achei%20seu%20Github%20muito%20legal!)
 
 ## Estou aprendendo :open_book:
