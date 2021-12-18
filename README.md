@@ -5,7 +5,7 @@
 
 ## Sobre :man_technologist:
 
-Tenho 18 anos de idade, moro em Almenara - Minas Gerais e no momentos estou cursando o 2º periódo em Análise e Desenvolvimento de Sistemas pelo IFNMG - Campus Almenara. Sou um novato na área, mas tenho sede por conhecimento e desejo de crescimento.  
+Tenho 18 anos de idade, moro em Almenara - Minas Gerais e no momentos estou cursando o 2º período em Análise e Desenvolvimento de Sistemas pelo IFNMG - Campus Almenara. Sou um novato na área, mas tenho sede por conhecimento e desejo de crescimento.  
 
 ### Onde me encontrar: :speech_balloon:
 
