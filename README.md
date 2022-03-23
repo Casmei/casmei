@@ -22,5 +22,5 @@ Tenho 18 anos de idade, moro em Almenara - Minas Gerais e no momentos estou curs
 ![sccs](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 
 ### Mais informações:
-- Atualmente estou estagiando como trainne developer na empresa H1
-- Estou realizando o Bootcamp da Rocketseat, vocês poderão encontrar alguns projetos desenvolvidos durante processo.
+- Atualmente estou em busca de emprego!
+- Estou realizando o curso da Cod3r - Web Moderno Completo com JavaScript 2022 + Projetos, vocês poderão encontrar alguns projetos desenvolvidos durante processo em meus repositórios.
