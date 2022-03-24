@@ -15,11 +15,9 @@ Tenho 18 anos de idade, moro em Almenara - Minas Gerais e no momentos estou curs
 
 ### Estou aprendendo :open_book:
 ![python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=flat-squaree&logo=javascript&logoColor=F7DF1E)
-![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-squaree&logo=typescript&logoColor=white)
-![angular2](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
-![sccs](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Mais informações:
 - Atualmente estou em busca de emprego!
