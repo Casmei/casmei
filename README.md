@@ -14,12 +14,10 @@ Tenho 19 anos de idade, moro em Almenara - Minas Gerais e no momento estou cursa
 [![Linkedin](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5533987056883&text=Ol%C3%A1%2C%20achei%20seu%20Github%20muito%20legal!)
 
 ### Estou aprendendo :open_book:
-![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ### Mais informações:
 - Atualmente estou em busca de emprego!
-- Estou realizando o curso da Cod3r - Web Moderno Completo com JavaScript 2022 + Projetos, vocês poderão encontrar alguns projetos desenvolvidos durante processo em meus repositórios.
+- Estou realizando o curso Formação Node.js, vocês poderão encontrar alguns projetos desenvolvidos durante o processo em meus repositórios.
