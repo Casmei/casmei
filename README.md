@@ -1,11 +1,10 @@
 # Olá! Eu me chamo Tiago de Castro  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=casmei&label=Profile%20views&color=28a464&style=flat" alt="suburbanno" /> </p>
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 
 ## Sobre :man_technologist:
 
-Tenho 19 anos de idade, moro em Almenara - Minas Gerais e no momento estou cursando o 2º período em Análise e Desenvolvimento de Sistemas pelo IFNMG - Campus Almenara. Tenho interesse em tornar-me um desenvolvedor back-end, buscando sempre que possivel o conhecimento alinhado a prática.
+Tenho 19 anos de idade, moro em Almenara - Minas Gerais e no momento estou cursando o 2º período em Análise e Desenvolvimento de Sistemas pelo IFNMG - Campus Almenara. Tenho interesse no desenvolvimento back-end, buscando sempre que possivel o conhecimento alinhado a prática.
 
 ### Onde me encontrar: :speech_balloon:
 
