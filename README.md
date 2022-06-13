@@ -1,8 +1,8 @@
-Desenvolvedor Back-end 💜
+Desenvolvedor Back-end 🖤
 
-[![Linkedin Badge](https://img.shields.io/badge/-Tiago%20de%20Castro-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-de-castro-lima-3814911b9/)](https://www.linkedin.com/in/tiago-de-castro-lima-3814911b9/) 
-[![Gmail Badge](https://img.shields.io/badge/-casmei@protonmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:casmei@protonmail.com)](mailto:casmei@protonmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@tiago.cali-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/tiago.cali)](https://www.instagram.com/tiago.cali)
+[![Linkedin Badge](https://img.shields.io/badge/-Tiago%20de%20Castro-151515?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-de-castro-lima-3814911b9/)](https://www.linkedin.com/in/tiago-de-castro-lima-3814911b9/) 
+[![Gmail Badge](https://img.shields.io/badge/-casmei@protonmail.com-151515?style=flat-square&logo=Gmail&logoColor=white&link=mailto:casmei@protonmail.com)](mailto:casmei@protonmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@tiago.cali-151515?style=flat-square&labelColor=151515&logo=instagram&logoColor=white&link=https://www.instagram.com/tiago.cali)](https://www.instagram.com/tiago.cali)
 
 Prazer, me chamo Tiago de Castro e tenho 19 anos. Atualmente moro em Almenara-MG e estou cursando o 3º período de Análise e Desenvolvimento de Sistemas no campus IFNMG - Almenara.
 
