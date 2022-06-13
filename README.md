@@ -6,7 +6,7 @@ Desenvolvedor Back-end 🖤
 
 Prazer, me chamo Tiago de Castro e tenho 19 anos. Atualmente moro em Almenara-MG e estou cursando o 3º período de Análise e Desenvolvimento de Sistemas no campus IFNMG - Almenara.
 
-Tenho focado meus estudos no <strong>NodeJS</strong>, sempre buscando aplicar os conhecimentos adquiridos em projetos presentes neste Github.
+Tenho focado meus estudos no <strong>NodeJS com Express</strong>, sempre buscando aplicar os conhecimentos adquiridos em projetos presentes neste Github.
 
 Vejo a programação como um meio ativo de mudar o mundo, fico estusiasmado em resolver problemas e ver o impacto causado para os usuários finais.
     
