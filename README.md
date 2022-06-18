@@ -6,8 +6,12 @@ Desenvolvedor Back-end 🖤
 
 Prazer, me chamo Tiago de Castro e tenho 19 anos. Atualmente moro em Almenara-MG e estou cursando o 3º período de Análise e Desenvolvimento de Sistemas no campus IFNMG - Almenara.
 
-Tenho focado meus estudos em <strong>NodeJS</strong>, junstamente com os frameworks <strong>Express</strong> e <strong>Jest</strong> para testes, sempre buscando aplicar os conhecimentos adquiridos em projetos presentes neste Github.
-
-Vejo a programação como um meio ativo de mudar o mundo, fico estusiasmado em resolver problemas e ver o impacto causado para os usuários finais.
+Tenho focado meus estudos no desenvolvimento de API REST, sempre buscando aplicar meus conhecimentos em projetos presentes neste Github. Vejo a programação como um meio ativo de mudar o mundo, fico estusiasmado em resolver problemas e ver o impacto causado para os usuários finais.
     
 > Imagine uma nova história para sua vida e acredite nela - Paulo Coelho
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
