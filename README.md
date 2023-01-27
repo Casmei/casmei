@@ -1,4 +1,4 @@
-Desenvolvedor Back-end 🖤
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&duration=4000&pause=500&color=FFFFFF&vCenter=true&width=435&lines=Desenvolvedor+Back-end+%F0%9F%96%A4)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Tiago%20de%20Castro-151515?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-de-castro-lima-3814911b9/)](https://www.linkedin.com/in/tiago-de-castro-lima-3814911b9/) 
 [![Gmail Badge](https://img.shields.io/badge/-casmei@protonmail.com-151515?style=flat-square&logo=Gmail&logoColor=white&link=mailto:casmei@protonmail.com)](mailto:casmei@protonmail.com)
