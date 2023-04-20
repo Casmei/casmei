@@ -4,11 +4,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-casmei@protonmail.com-151515?style=flat-square&logo=Gmail&logoColor=white&link=mailto:casmei@protonmail.com)](mailto:casmei@protonmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@tiago.cali-151515?style=flat-square&labelColor=151515&logo=instagram&logoColor=white&link=https://www.instagram.com/tiago.cali)](https://www.instagram.com/tiago.cali)
 
-Prazer, me chamo Tiago de Castro e tenho 19 anos. Atualmente moro em Almenara-MG e estou cursando o 4º período de Análise e Desenvolvimento de Sistemas no campus IFNMG - Almenara.
+Prazer, me chamo Tiago de Castro e tenho 20 anos. Atualmente moro em Almenara-MG e estou cursando o 5º período de Análise e Desenvolvimento de Sistemas no campus IFNMG - Almenara.
 
-Tenho focado meus estudos no desenvolvimento de API REST, sempre buscando aplicar meus conhecimentos em projetos presentes neste Github. Vejo a programação como um meio ativo de mudar o mundo, fico estusiasmado em resolver problemas e ver o impacto causado aos usuários finais.
+Tenho focado meus estudos no desenvolvimento de API REST, sempre buscando aplicar meus conhecimentos em projetos reais presentes neste Github. Vejo a programação como um meio ativo de mudar o mundo, fico estusiasmado em resolver problemas e ver o impacto causado aos usuários finais.
     
-> Imagine uma nova história para sua vida e acredite nela - Paulo Coelho
+🔹 Estou aberto a novas oportunidades de emprego!
 
 ![React](https://img.shields.io/badge/react-3982CE?style=for-the-badge&logo=react&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
