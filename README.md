@@ -1,4 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&duration=4000&pause=500&color=FFFFFF&vCenter=true&width=435&lines=Desenvolvedor+Back-end+%F0%9F%96%A4)](https://git.io/typing-svg)
+<div align="center">
+  <a href="#">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzcxM2ZjOGI1OGVmMmU0ZmIzYTg0MzY0MjUxNWJlYTg5ZGY2YTBlNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/X6igXqclj9f8Tf5XXG/giphy.gif" height="50">
+  </a>
+
+  <a href="#">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=700&pause=2500&color=7B40B1&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Desenvolvedor+Fullstack" alt="Typing SVG" /></a>
+  </a>
+
+  <a href="#">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzcxM2ZjOGI1OGVmMmU0ZmIzYTg0MzY0MjUxNWJlYTg5ZGY2YTBlNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/X6igXqclj9f8Tf5XXG/giphy.gif" height="50">
+  </a>
+</div>
+
+---
 
 [![Linkedin Badge](https://img.shields.io/badge/-Tiago%20de%20Castro-151515?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-de-castro-lima-3814911b9/)](https://www.linkedin.com/in/tiago-de-castro-lima-3814911b9/) 
 [![Gmail Badge](https://img.shields.io/badge/-casmei@protonmail.com-151515?style=flat-square&logo=Gmail&logoColor=white&link=mailto:casmei@protonmail.com)](mailto:casmei@protonmail.com)
