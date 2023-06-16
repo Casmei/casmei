@@ -1,16 +1,4 @@
-<div align="center">
-  <a href="#">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzcxM2ZjOGI1OGVmMmU0ZmIzYTg0MzY0MjUxNWJlYTg5ZGY2YTBlNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/X6igXqclj9f8Tf5XXG/giphy.gif" height="50">
-  </a>
-
-  <a href="#">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=700&pause=2500&color=7B40B1&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Desenvolvedor+Fullstack" alt="Typing SVG" /></a>
-  </a>
-
-  <a href="#">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzcxM2ZjOGI1OGVmMmU0ZmIzYTg0MzY0MjUxNWJlYTg5ZGY2YTBlNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/X6igXqclj9f8Tf5XXG/giphy.gif" height="50">
-  </a>
-</div>
+### Desenvolvedor FullStack
 
 ---
 
