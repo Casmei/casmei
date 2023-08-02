@@ -10,7 +10,7 @@ Prazer, me chamo Tiago de Castro e tenho 20 anos. Atualmente moro em Almenara-MG
 
 Tenho focado meus estudos no desenvolvimento de API REST, sempre buscando aplicar meus conhecimentos em projetos reais presentes neste Github. Vejo a programação como um meio ativo de mudar o mundo, fico estusiasmado em resolver problemas e ver o impacto causado aos usuários finais.
     
-🔹 Estou aberto a novas oportunidades de emprego!
+🔹 Não estou aberto a novas oportunidades de emprego!
 
 ![React](https://img.shields.io/badge/react-3982CE?style=for-the-badge&logo=react&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
