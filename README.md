@@ -4,11 +4,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Tiago%20de%20Castro-151515?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-de-castro-lima-3814911b9/)](https://www.linkedin.com/in/tiago-de-castro-lima-3814911b9/) 
 [![Gmail Badge](https://img.shields.io/badge/-casmei@protonmail.com-151515?style=flat-square&logo=Gmail&logoColor=white&link=mailto:casmei@protonmail.com)](mailto:casmei@protonmail.com)
 
-Hi, my name is Tiago de Castro and I am 21 years old. I currently live in Almenara-MG and I am in the 6th semester of Systems Analysis and Development at IFNMG - Almenara campus.
+Olá, meu nome é Tiago de Castro, tenho 21 anos e atualmente moro em Almenara-MG. Estou no 6º semestre do curso de Análise e Desenvolvimento de Sistemas no IFNMG – campus Almenara.
 
-I have been focusing my studies on backend development in PHP and Typescript, using structural concepts to decouple layers. I always strive to apply my knowledge to real projects present on this GitHub. I see programming as an active means to change the world, and I get excited about solving problems and seeing the impact on end users.
-    
-🔹  Currently learning English and improving my skills in PHP and Javascript :)
+Tenho quase 3 anos de experiência profissional, atuando em fintechs e empresas de automação comercial, sempre focado no desenvolvimento backend. Ao longo dessa trajetória, adquiri sólido conhecimento em testes e qualidade de software, além de cultivar uma mentalidade voltada para boas práticas e entregas consistentes. Sou uma pessoa com ambições empreendedoras e acredito no poder da tecnologia para transformar ideias em impacto real.
+
+🔹 Atualmente, estou aprendendo inglês, tracing e observabilidade, além de estar aprimorando minhas habilidades em Golang. 🚀
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
