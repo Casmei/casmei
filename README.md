@@ -1,8 +1,6 @@
-### Web Developer
----
+<h3 align="center">Software Developer</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Tiago%20de%20Castro-151515?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-de-castro-lima-3814911b9/)](https://www.linkedin.com/in/tiago-de-castro-lima-3814911b9/) 
-[![Gmail Badge](https://img.shields.io/badge/-casmei@protonmail.com-151515?style=flat-square&logo=Gmail&logoColor=white&link=mailto:casmei@protonmail.com)](mailto:casmei@protonmail.com)
+---
 
 Olá, meu nome é Tiago de Castro, tenho 21 anos e atualmente moro em Almenara-MG. Estou no 6º semestre do curso de Análise e Desenvolvimento de Sistemas no IFNMG – campus Almenara.
 
@@ -10,6 +8,24 @@ Tenho quase 3 anos de experiência profissional, atuando em fintechs e empresas 
 
 🔹 Atualmente, estou aprendendo inglês, tracing e observabilidade, além de estar aprimorando minhas habilidades em Golang. 🚀
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+---
 
+### Experiência de trabalho
+
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/D4D0BAQFVXTJ1xgjc1g/company-logo_200_200/B4DZW043crH4AI-/0/1742496561518/tecnovix_logo?e=1755129600&v=beta&t=42UlNeZDOUYBp1faa3y_DIYjhK7K3ueYo2Kb5ccZMhI"/>](https://www.spacex.com/)
+
+**Fullstack Developer** \
+[**Tecnovix**](https://tecnovix.com.br/) • Full-time \
+Linguagens & Tecnologias: `Laravel`, `Backpack`, `Vue.js`, `Metabase`, `Php`\
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media.licdn.com/dms/image/v2/D4D0BAQEUKqrW5Wsp2Q/company-logo_200_200/company-logo_200_200/0/1706211413240/emcash_logo?e=1755129600&v=beta&t=X5X_1Aq8I7wb8hxS4h4QrOW64FbdZMrEJ0NeRkcvIUc"/>](https://emcash.com.br/)
+
+**Backend Developer** \
+[**Emcash**](https://emcash.com.br/) • Full-time \
+Linguagens & Tecnologias: `Yii2`, `SQS`, `PhpUnit`, `POO`, `Payment Gateway`\
+<br/>
+
+Por favor, encontre-me no [LinkedIn]([https://www.linkedin.com/in/iuricode/](https://www.linkedin.com/in/tiago-castro-lima/)) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
